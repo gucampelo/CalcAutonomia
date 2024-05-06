@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalcAutonomia</string>
+    <string name="txtQtdMedia">Digite o consumo médio do automóvel em km/l:</string>
+    <string name="txtLitrosTanque">Digite a quantidade de litros de \ncombustível no tanque do carro:</string>
+    <string name="btnCalc">Calcular</string>
+    <string name="km">km/l</string>
+    <string name="btnCalc">Calcular</string>
+</resources>
